@@ -1,5 +1,3 @@
-<img align="right" src=""/>
-
 # Porn Logo Maker: Create Custom Pornhub Logos Free | Porn-Logo.com
 
 ![](https://img.shields.io/badge/Deployed%20on-Vercel-9cf) ![GitHub last commit](https://img.shields.io/github/last-commit/expertbeacon/pornlogo.svg) ![GitHub issues](https://img.shields.io/github/issues/expertbeacon/pornlogo.svg) ![GitHub stars](https://img.shields.io/github/stars/expertbeacon/pornlogo.svg?style=social)
