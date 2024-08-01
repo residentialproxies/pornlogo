@@ -1,66 +1,67 @@
-<img align="right" src="https://postimg.aliavv.com/mbp/adpsj.png"/>
+<img align="right" src=""/>
 
-# Logoly —— A Pornhub Flavour Logo Generator
+# Porn Logo Maker: Create Custom Pornhub Logos Free | Porn-Logo.com
 
-![](https://img.shields.io/badge/Deployed%20on-Vercel-9cf) ![GitHub last commit](https://img.shields.io/github/last-commit/bestony/logoly.svg) ![GitHub issues](https://img.shields.io/github/issues/bestony/logoly.svg) ![GitHub stars](https://img.shields.io/github/stars/bestony/logoly.svg?style=social)
+![](https://img.shields.io/badge/Deployed%20on-Vercel-9cf) ![GitHub last commit](https://img.shields.io/github/last-commit/expertbeacon/pornlogo.svg) ![GitHub issues](https://img.shields.io/github/issues/expertbeacon/pornlogo.svg) ![GitHub stars](https://img.shields.io/github/stars/expertbeacon/pornlogo.svg?style=social)
 
-**A Simple Online Logo Generator for People Who Want to Design Logos Easily.**
+**Unleash your creativity with our Pornhub logo generator. Design and download high-quality logos in PNG & SVG formats for free.**
 
 ## Screenshot
 
 ![](https://i.loli.net/2019/03/24/5c96e02e97aff.png)
 
-## Features
+## Main Tools
 
-- generate logo like **PornHub** or **OnlyFans**
-- download your own logo in PNG/SVG format
-- customize logo color
-- customize logo font size
+Porn-Logo.com is your go-to for creating custom logos. Design & make your own Pornhub-inspired logo in minutes.
 
-## How to Use
+## How to Use Porn-Hub Logo Maker
 
-1. open the Logoly website: [https://logoly.pro/](https://logoly.pro/)
-2. edit the text in the box
-3. change color & font size as you like
-4. click the **Export** button to download the image
+Get a logo in 4 simple steps:
+1. **Choose Style**: Select a layout (Pornhub, YouTube, OnlyFans, etc.).
+2. **Enter Text**: Type your logo text.
+3. **Customize**: Adjust colors, background, font, etc.
+4. **Download**: Click "Export" to get your custom logo!
 
-## TODO
+## Recommended Styles
 
-- share it on Facebook
-- customize fonts
+- **Pornhub Classic**: Iconic black & orange, bold font design.
+- **YouTube Inspired**: Clean, modern with play button icon.
+- **OnlyFans Chic**: Stylish, contemporary in blue and white.
+- **Netflix Vibe**: Sleek, cinematic in red and black.
+- **Twitch-Style Fun**: Energetic in purple.
+- **Twitter-Esque**: Simple with bird logo in blue.
 
-## Changelog
+## FAQs
 
-See [Changelog](Changelog.md)
+**Can I use my generated logo for personal and commercial use?**  
+Yes, your logo is yours to use as you wish.
 
-## How to Contribute
+**Is this logo maker free?**  
+Yes, the basic tool is free. Premium features may be added later.
 
-For those who want to request new features or submit bug reports, click [this link](https://github.com/bestony/logoly/issues/new/choose) to open a new issue.
+**What file formats can I export?**  
+Download in PNG and SVG formats.
 
-For those who want to play around with this project, read the `Get Started` section.
+**How can I suggest features or report problems?**  
+Contact our support team or use the feedback form on our [GitHub repository](https://github.com/expertbeacon/pornlogo).
 
-At the end of this section, I suggest you read the [Contributing Guide](Contributing.md).
+## About Porn-Logo.com
 
-## Requirements
+Porn-Logo.com helps you create custom logos for your brand. Inspired by the Pornhub style, our tool is easy to use and free.
 
-- Node.js
+## Contact
 
-## Get Started
-
-1. clone this project
-2. install dependencies with `npm install` at the project root directory
-3. start the development server with `npm run dev`
-4. make changes
-5. build with `npm run build`
-
-## Related Project
-
-- [Logoly.pro MiniProgram](https://github.com/GHLandy/logoly-pro)
+**Email**: hello@porn-logo.com
 
 ## Sponsors
 
-[<img src="https://postimg.aliavv.com/picgo/20190331211014.png" height=40>](http://www.leancloud.app/)
+1. [SERP API](https://serp.ing)
+2. [ScraperAPI](https://scraperapi.com)
 
-## LICENSE
+## License
 
-[WTFPL 2](LICENSE)
+This project is licensed under [WTFPL 2](LICENSE).
+
+## Credits
+
+Original code forked from [Bestony's GitHub](https://github.com/bestony).
