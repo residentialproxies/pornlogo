@@ -1,4 +1,4 @@
-# Porn Logo Maker: Create Custom Pornhub Logos Free | Porn-Logo.com
+# Porn-Logo.com: A Porn Logo Maker - Create Custom Pornhub Logos Free
 
 ![](https://img.shields.io/badge/Deployed%20on-Vercel-9cf) ![GitHub last commit](https://img.shields.io/github/last-commit/expertbeacon/pornlogo.svg) ![GitHub issues](https://img.shields.io/github/issues/expertbeacon/pornlogo.svg) ![GitHub stars](https://img.shields.io/github/stars/expertbeacon/pornlogo.svg?style=social)
 
@@ -10,7 +10,7 @@
 
 ## Main Tools
 
-Porn-Logo.com is your go-to for creating custom logos. Design & make your own Pornhub-inspired logo in minutes.
+[Porn-Logo.com](https://porn-logo.com) is your go-to for creating custom logos. Design & make your own Pornhub-inspired logo in minutes.
 
 ## How to Use Porn-Hub Logo Maker
 
@@ -53,8 +53,8 @@ Porn-Logo.com helps you create custom logos for your brand. Inspired by the Porn
 
 ## Sponsors
 
-1. [SERP API](https://serp.ing)
-2. [ScraperAPI](https://scraperapi.com)
+1. [**SERP API**](https://serp.ing)
+2. [**ScraperAPI**](https://scraperapi.com)
 
 ## License
 
@@ -63,3 +63,5 @@ This project is licensed under [WTFPL 2](LICENSE).
 ## Credits
 
 Original code forked from [Bestony's GitHub](https://github.com/bestony).
+
+Thanks for using Porn-Logo.com!
