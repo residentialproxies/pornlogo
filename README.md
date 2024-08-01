@@ -1,12 +1,10 @@
 # Porn-Logo.com: A Porn Logo Maker - Create Custom Pornhub Logos Free
 
-![](https://img.shields.io/badge/Deployed%20on-Vercel-9cf) ![GitHub last commit](https://img.shields.io/github/last-commit/expertbeacon/pornlogo.svg) ![GitHub issues](https://img.shields.io/github/issues/expertbeacon/pornlogo.svg) ![GitHub stars](https://img.shields.io/github/stars/expertbeacon/pornlogo.svg?style=social)
 
 **Unleash your creativity with our Pornhub logo generator. Design and download high-quality logos in PNG & SVG formats for free.**
 
 ## Screenshot
-
-![](https://i.loli.net/2019/03/24/5c96e02e97aff.png)
+![](https://i.imgur.com/OdHOVfW.jpeg) ![GitHub last commit](https://img.shields.io/github/last-commit/expertbeacon/pornlogo.svg) ![GitHub issues](https://img.shields.io/github/issues/expertbeacon/pornlogo.svg) ![GitHub stars](https://img.shields.io/github/stars/expertbeacon/pornlogo.svg?style=social)
 
 ## Main Tools
 
@@ -19,6 +17,8 @@ Get a logo in 4 simple steps:
 2. **Enter Text**: Type your logo text.
 3. **Customize**: Adjust colors, background, font, etc.
 4. **Download**: Click "Export" to get your custom logo!
+
+![](https://i.imgur.com/2Xv8oXX.jpeg)
 
 ## Recommended Styles
 
