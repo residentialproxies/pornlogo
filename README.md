@@ -53,8 +53,9 @@ Porn-Logo.com helps you create custom logos for your brand. Inspired by the Porn
 
 ## Sponsors
 
-1. [**SERP API**](https://serp.ing)
-2. [**ScraperAPI**](https://scraperapi.com)
+1. [**SERP API**](https://www.serp.ing)
+2. [**ScraperAPI**](https://www.scraperapi.com?fpr=proxies)
+3. [**SimplyNode.com**](https://www.simplynode.com/)
 
 ## License
 
