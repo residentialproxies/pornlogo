@@ -44,6 +44,18 @@ const friendlyLinks = [
   {
     name: 'Schema Validator',
     url: 'https://www.schemavalidator.com'
+  },
+  {
+    name: 'Advertising Platform',
+    url: 'https://www.publisherlens.com/platforms'
+  },
+  {
+    name: 'whatsmyname',
+    url: 'https://whatsmynameapp.org/'
+  },
+  {
+    name: 'redirectchecker',
+    url: 'https://www.redirectchecker.org/'
   }
 ];
 
